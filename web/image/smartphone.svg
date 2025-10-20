@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="800" height="600" viewBox="0 0 800 600">
+  <title>Smartphone</title>
+  <desc>Modern smartphone with colorful display</desc>
+  <style>
+    .phone-body { fill: #263238; stroke: #37474f; stroke-width: 2; }
+    .screen { fill: url(#screen-gradient); }
+    .notch { fill: #263238; }
+    .button { fill: #e0e0e0; }
+    .time { font-family: Arial, sans-serif; font-size: 48px; fill: #ffffff; text-anchor: middle; }
+    .date { font-family: Arial, sans-serif; font-size: 18px; fill: #ffffff; text-anchor: middle; }
+  </style>
+  
+  <defs>
+    <linearGradient id="screen-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff9800" />
+      <stop offset="50%" stop-color="#f44336" />
+      <stop offset="100%" stop-color="#e91e63" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Phone body -->
+  <rect class="phone-body" x="300" y="100" width="200" height="400" rx="20" ry="20" />
+  
+  <!-- Screen -->
+  <rect class="screen" x="310" y="120" width="180" height="360" rx="10" ry="10" />
+  
+  <!-- Notch -->
+  <rect class="notch" x="370" y="120" width="60" height="20" rx="10" ry="10" />
+  
+  <!-- Home indicator -->
+  <rect class="button" x="380" y="460" width="40" height="5" rx="2.5" ry="2.5" />
+  
+  <!-- Time and date -->
+  <text class="time" x="400" y="250">17:34</text>
+  <text class="date" x="400" y="280">Quinta, 19 setembro</text>
+</svg>

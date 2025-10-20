@@ -1,0 +1,8 @@
+/html_editor/image_shape/website.s_image_text_device_perspective/html_builder/devices/iphone_3d_portrait_02.svg
+/html_editor/image_shape/website.s_mockup_image_default_image/html_builder/devices/macbook_front.svg
+/web/assets/1/0a5f145/web.assets_frontend.min.css
+/web/assets/1/0dc4842/web.assets_frontend_minimal.min.js
+/web/assets/1/92ba4a0/web.assets_frontend_lazy.min.js
+/web/image/539-3ff2634c/Captura%20de%20tela%202025-09-30%20122732-Photoroom%20%281%29.png
+/web/image/541-0588f108/Captura%20de%20tela%202025-09-30%20122732-Photoroom%20%281%29.webp
+/web/static/img/odoo_logo_tiny.png
